@@ -12,7 +12,7 @@ group :development do
   # OS X: Uncomment one of the following for visual notifications
   # gem 'ruby_gntp'
   # gem 'growl'
-  # gem 'growlnotify'
+  # gem 'growl_notify'
 
   # Linux: Uncomment for inotify support
   # gem 'rb-inotify'
