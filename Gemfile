@@ -6,22 +6,13 @@ group :development do
   gem 'guard'
   gem 'guard-cucumber'
 
-  # OS X: Uncomment for FSEvent support
-  # gem 'rb-fsevent'
-
   # OS X: Uncomment one of the following for visual notifications
-  # gem 'ruby_gntp'
   # gem 'growl'
   # gem 'growl_notify'
-
-  # Linux: Uncomment for inotify support
-  # gem 'rb-inotify'
+  # gem 'ruby_gntp'
 
   # Linux: Uncomment for visual notifications
   # gem 'libnotify'
-
-  # Windows: Uncomment for Directory Change Notification support
-  # gem 'rb-fchange'
 
   # Windows: Uncomment for visual notifications
   # gem 'rb-notifu'
